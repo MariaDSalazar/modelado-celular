@@ -1,0 +1,10 @@
+Guia-Docente-Juego.pdf
+Guia-Docente-Juego.txt
+Texto-Canvas-Juego.txt
+QR-Juego-Modelado.png
+*.log
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
